@@ -1,0 +1,35 @@
+UWorld Quotation (유월드 견적서) — End User License
+Copyright (c) UWorld. All rights reserved.
+
+1. The software and all files distributed in this repository ("Software") are the
+   property of UWorld and are protected by copyright law. This is NOT open-source software.
+
+2. You may download, install and use the Software for your own personal or internal business use.
+
+3. You may NOT, without prior written permission from UWorld:
+   - copy, redistribute, sell, rent or sublicense the Software;
+   - modify, decompile, disassemble or reverse engineer the Software, except as
+     expressly permitted by applicable law;
+   - remove or alter any copyright, trademark or other notices.
+
+4. The Software is provided "AS IS", without warranty of any kind. To the maximum extent
+   permitted by law, UWorld is not liable for any damages arising from its use.
+
+5. Documents and data you create with the Software belong to you. Use of the online
+   service is also subject to the terms of service published at https://quot.uworld.co.kr
+
+Contact: https://service.uworld.co.kr
+
+----------------------------------------------------------------------
+유월드 견적서 — 사용권 안내
+Copyright (c) 유월드. All rights reserved.
+
+1. 이 저장소에서 배포하는 소프트웨어와 모든 파일은 유월드의 저작물이며, 오픈소스가 아닙니다.
+2. 개인 또는 사업장 내부 용도로 내려받아 설치·사용할 수 있습니다.
+3. 유월드의 사전 서면 허락 없이 복제·재배포·판매·대여·재허락, 수정·디컴파일·역설계(법이 허용하는
+   경우 제외), 저작권·상표 표시의 삭제·변경을 할 수 없습니다.
+4. 소프트웨어는 "있는 그대로" 제공되며, 법이 허용하는 범위에서 사용으로 인한 손해에 책임지지 않습니다.
+5. 소프트웨어로 작성한 문서와 데이터는 사용자에게 있습니다. 온라인 서비스 이용에는
+   https://quot.uworld.co.kr 에 게시된 이용약관이 함께 적용됩니다.
+
+문의: https://service.uworld.co.kr
